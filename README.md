@@ -1,4 +1,5 @@
 # Simulador de caché
+Implementación por Francisco Segura, Facundo Cardogna y Sofía Alvarado
 
 En este trabajo práctico se implementará un **simulador de caché parametrizado**. Serán configurables las distintas características de la caché simulada (tamaño, número de sets y asociatividad), y el programa principal leerá y simulará una secuencia de operaciones desde un archivo de trazas.
 
