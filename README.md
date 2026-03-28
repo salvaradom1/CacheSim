@@ -25,5 +25,4 @@ Ejemplo de invocación:
 $ ./cachesim blowfish.xex 2048 4 8
 ```
 
-El parámetro `-v` es opcional pero, de estar presente, siempre aparece en quinto lugar, seguido de dos números enteros. Su presencia activa un “modo verboso” en que se imprime información detallada para un subconjunto de las operaciones, tal y como se explica en la sección [Salida del programa](#salida-del-programa).
-
+El parámetro `-v` es opcional pero, de estar presente, siempre aparece en quinto lugar, seguido de dos números enteros. Su presencia activa un “modo verboso” en que se imprime información detallada para un subconjunto de las operaciones.
